@@ -16,17 +16,14 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
   
 <p align="left">
+   <a href="https://github.com/Ylanv/nano4M">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=nano4M&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nano4M">
+    </a>
     <a href="https://github.com/PlateSwipe/PlateSwipe">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlateSwipe&repo=PlateSwipe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PlateSwipe">
     </a>
     <a href="https://github.com/Ylanv/DataLive">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=DataLive&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataLive">
-    </a>
-    <a href="https://github.com/Ylanv/Kaggle-LLM-ClassficationFT">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=Kaggle-LLM-ClassficationFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LLM as a Judge">
-    </a>
-    <a href="https://github.com/Ylanv/nano4M">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ylanv&repo=nano4M&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nano4M">
     </a>
 </p>
 
