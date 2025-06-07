@@ -11,8 +11,8 @@
 -  Passionate about Generative AI & applied ML  
 -  Hackathon enthusiast — building fast, learning faster  
 -  Currently exploring multimodal LLMs and system design  
----
 
+---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
   
 <p align="left">
@@ -30,20 +30,6 @@
     </a>
 </p>
 
-
-<br>
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Featured Projects**
-
-- [**nano4M**](https://github.com/Ylanv/nano4M) – Minimalist multimodal LLM inspired by GPT-4o. Built from scratch with a full training pipeline, including tokenization, Transformer, and multimodal integration.
-
-- [**DataLive**](https://github.com/rav-lad/DataLiveTest) – 🏆 1st place @ LauzHack 2025. AI-powered app to query `.csv` files using natural language. GPT-4o + Video-LLaMA, with a privacy-first architecture.
-
-- [**PlateSwipe**](https://github.com/PlateSwipe/PlateSwipe) – 🏆 Android app for personalized recipes. Built with a 7-person Agile team. Awarded best course project (500 CHF).
-
-- [**LLM as a Judge**](https://github.com/Ylanv/Kaggle-LLM-ClassficationFT) – Fine-tuned an LLM to rank model responses for RLHF. Used synthetic preference data and prompt engineering.
-  
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRlaGxxYzR5emFhejFrMGZjcGxhMWhzeDc1dzVydTBmbnR4MDhsNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Qs5FYEsfQlclJ1FtWV/giphy.gif" width ="25"> Hackathon Done
@@ -117,5 +103,6 @@ French (native), English (fluent)
 
 ---
 
-Credit: Inspired by [Abdul Khalid](https://github.com/0xabdulkhalid)  
-Last Edited on: 06/06/2025
+Credit: 
+Inspired by [Abdul Khalid](https://github.com/0xabdulkhalid), [Arno Vifian](https://github.com/rav-lad) and [Youcef Amar](https://github.com/2Fick)
+Last Edited on: 07/06/2025
